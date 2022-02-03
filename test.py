@@ -1,1 +1,2 @@
 print("Anuchai)
+print("Duanghathai")
