@@ -1,3 +1,1 @@
-print("Anuchai)
-print("Duanghathai")
-print("HI")
+print("Hello") 
